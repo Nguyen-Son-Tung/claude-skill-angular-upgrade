@@ -1,0 +1,9 @@
+{
+  "name": "angular-upgrade-skill",
+  "description": "Angular version upgrade skill — analyzes a legacy Angular project and upgrades it one major version at a time, handling Angular Material, RxJS, TypeScript strict mode, and SCSS breaking changes along the way.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Nguyen-Son-Tung"
+  },
+  "license": "MIT"
+}
